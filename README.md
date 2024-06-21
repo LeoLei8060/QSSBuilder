@@ -1,2 +1,6 @@
 # QSSBuilder
-Configure the effect on the UI and automatically generate QSS code
+QSSBuilder作为一款QSS自动生成器，主要功能有：
+1. 通过可视化的形式来单独配置每个控件的效果
+2. 可视化配置完成后，可以自动生成对应的QSS代码
+3. 通过加载.ui文件解析控件对象
+
