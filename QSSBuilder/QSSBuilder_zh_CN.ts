@@ -310,4 +310,172 @@
         <translation type="unfinished"></translation>
     </message>
 </context>
+<context>
+    <name>Item_CheckBox</name>
+    <message>
+        <location filename="Items/Buttons/item_checkbox.ui" line="16"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Item_Dialog</name>
+    <message>
+        <location filename="Items/Widgets/item_dialog.ui" line="16"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Item_DockWidget</name>
+    <message>
+        <location filename="Items/Containers/item_dockwidget.ui" line="16"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Item_Frame</name>
+    <message>
+        <location filename="Items/Containers/item_frame.ui" line="16"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Item_GroupBox</name>
+    <message>
+        <location filename="Items/Containers/item_groupbox.ui" line="16"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Item_ListView</name>
+    <message>
+        <location filename="Items/ItemViews/item_listview.ui" line="16"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Item_ListWidget</name>
+    <message>
+        <location filename="Items/ItemWidgets/item_listwidget.ui" line="16"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Item_MDIArea</name>
+    <message>
+        <location filename="Items/Containers/item_mdiarea.ui" line="16"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Item_PushButton</name>
+    <message>
+        <location filename="Items/Buttons/item_pushbutton.ui" line="16"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Item_RadioButton</name>
+    <message>
+        <location filename="Items/Buttons/item_radiobutton.ui" line="16"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Item_ScrollArea</name>
+    <message>
+        <location filename="Items/Containers/item_scrollarea.ui" line="16"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Item_StackedWidget</name>
+    <message>
+        <location filename="Items/Containers/item_stackedwidget.ui" line="16"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Item_TabWidget</name>
+    <message>
+        <location filename="Items/Containers/item_tabwidget.ui" line="16"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Item_TableView</name>
+    <message>
+        <location filename="Items/ItemViews/item_tableview.ui" line="16"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Item_TableWidget</name>
+    <message>
+        <location filename="Items/ItemWidgets/item_tablewidget.ui" line="16"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Item_ToolBox</name>
+    <message>
+        <location filename="Items/Containers/item_toolbox.ui" line="16"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Item_ToolButton</name>
+    <message>
+        <location filename="Items/Buttons/item_toolbutton.ui" line="16"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Item_TreeView</name>
+    <message>
+        <location filename="Items/ItemViews/item_treeview.ui" line="16"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Item_TreeWidget</name>
+    <message>
+        <location filename="Items/ItemWidgets/item_treewidget.ui" line="16"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Item_Widget</name>
+    <message>
+        <location filename="Items/Widgets/item_widget.ui" line="16"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Item_Window</name>
+    <message>
+        <location filename="Items/Widgets/item_window.ui" line="16"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
 </TS>
